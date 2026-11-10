@@ -121,7 +121,6 @@ sales-performance-dashboard/
 ├── powerbi/
 │   └── sales_performance.pbix  # Power BI report
 ├── data/
-│   ├── README.md               # Where to get the raw data
 │   ├── sales_clean.zip         # Cleaned sales (zipped, ~82 MB unzipped)
 │   ├── returns.csv
 │   └── customers.csv
